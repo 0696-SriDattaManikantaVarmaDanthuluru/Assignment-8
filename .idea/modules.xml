@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment 8.iml" filepath="$PROJECT_DIR$/.idea/Assignment 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomException/CustomException.iml" filepath="$PROJECT_DIR$/CustomException/CustomException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionChaining/ExceptionChaining.iml" filepath="$PROJECT_DIR$/ExceptionChaining/ExceptionChaining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHirearchy/ExceptionHirearchy.iml" filepath="$PROJECT_DIR$/ExceptionHirearchy/ExceptionHirearchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinallyBlock/FinallyBlock.iml" filepath="$PROJECT_DIR$/FinallyBlock/FinallyBlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleCatch/MultipleCatch.iml" filepath="$PROJECT_DIR$/MultipleCatch/MultipleCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NegativeNumber/NegativeNumber.iml" filepath="$PROJECT_DIR$/NegativeNumber/NegativeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThrowingExceptions/ThrowingExceptions.iml" filepath="$PROJECT_DIR$/ThrowingExceptions/ThrowingExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/TryCatch/TryCatch.iml" />
+    </modules>
+  </component>
+</project>
